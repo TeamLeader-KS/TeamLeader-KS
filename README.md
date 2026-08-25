@@ -32,10 +32,10 @@
 | Язык | Проекты | Ссылки на GitHub |
 | :---: | :---: | :---: |
 | **C (C-Lang)** | Утилиты Cat и Grep <br> Игра "Порядок против Хаоса" <br> Библиотека Decimal <br> Проект Матрицы | [Cat and Grep](https://github.com/TeamLeader-KS/Cat_And_Grep_Utility) <br> [order_vs_chaos](https://github.com/TeamLeader-KS/order_vs_chaos) <br> [Decimal](https://github.com/TeamLeader-KS/Decimal) <br> [Matrix](https://github.com/TeamLeader-KS/Matrix) |
-| **Java** | Игра "Рогалик" | [rougelite](https://github.com/TeamLeader-KS/s21_rougelite) |
+| **Java** | Игра "Рогалик" <br> Decimal_Visual (на Java) | [rougelite](https://github.com/TeamLeader-KS/s21_rougelite) <br> [Decimal_Visual](https://github.com/TeamLeader-KS/Decimal_Visual) |
 | **Kotlin** | - | - |
 | **SQL** | - | - |
-| **Python** | - | - |
+| **Python** | Визуализатор Децимал (на Python) | [Visualizer_Decimal](https://github.com/TeamLeader-KS/Visualizer_Decimal) |
 
 
 
