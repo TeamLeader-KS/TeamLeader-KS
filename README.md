@@ -35,7 +35,7 @@
 | **Java** | Игра "Рогалик" <br> Визуализатор Децимал <br> (на Java) <br> игра "Крестики-Нолики" <br> проект "Алгоритмы" | [rougelite](https://github.com/TeamLeader-KS/s21_rougelite) <br> [Decimal_Visual](https://github.com/TeamLeader-KS/Decimal_Visual) <br> waiting <br> waiting |
 | **Kotlin** <br> **/** <br> **Android** | Портирование игры "Рогалик" | [My_Rouge_Mobile](https://github.com/TeamLeader-KS/My_Rouge_Mobile) |
 | **SQL** | Учебные проекты по SQL | waiting |
-| **Python** | Визуализатор Децимал <br> (на Python) | [Visualizer_Decimal](https://github.com/TeamLeader-KS/Visualizer_Decimal) |
+| **Python** | Визуализатор Децимал <br> (на Python) <br> Голосовой ассистент для поликлиники | [Visualizer_Decimal](https://github.com/TeamLeader-KS/Visualizer_Decimal) <br> waiting |
 
 
 
