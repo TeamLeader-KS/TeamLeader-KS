@@ -33,7 +33,7 @@
 | :---: | :---: | :---: |
 | **C (C-Lang)** | Утилиты Cat и Grep <br> Игра "Порядок против Хаоса" <br> Библиотека Decimal <br> Проект Матрицы <br> Проект Strings + Sscanf/Sprintf | [Cat and Grep](https://github.com/TeamLeader-KS/Cat_And_Grep_Utility) <br> [order_vs_chaos](https://github.com/TeamLeader-KS/order_vs_chaos) <br> [Decimal](https://github.com/TeamLeader-KS/Decimal) <br> [Matrix](https://github.com/TeamLeader-KS/Matrix) <br> [Библиотека Strings + Библиотека Sscanf/Sprintf](https://github.com/TeamLeader-KS/sscanf-sprintf-strings)  |
 | **Java** | Игра "Рогалик" <br> Визуализатор Децимал <br> (на Java) <br> игра "Крестики-Нолики" <br> проект "Алгоритмы" | [rougelite](https://github.com/TeamLeader-KS/s21_rougelite) <br> [Decimal_Visual](https://github.com/TeamLeader-KS/Decimal_Visual) <br> waiting <br> waiting |
-| **Kotlin** <br> **/** <br> **Android** | Портирование игры "Рогалик" | [My_Rouge_Mobile](https://github.com/TeamLeader-KS/My_Rouge_Mobile) |
+| **Kotlin** <br> **/** <br> **Android** | Портирование игры "Рогалик" <br> Шуточный тест про выбор языка программирования | [My_Rouge_Mobile](https://github.com/TeamLeader-KS/My_Rouge_Mobile) <br> [Test Choosing Programming Language](https://github.com/TeamLeader-KS/TestChoosingProgrammingLanguage) |
 | **SQL** | Учебные проекты по SQL | waiting |
 | **Python** | Визуализатор Децимал <br> (на Python) <br> Голосовой ассистент для поликлиники | [Visualizer_Decimal](https://github.com/TeamLeader-KS/Visualizer_Decimal) <br> waiting |
 
